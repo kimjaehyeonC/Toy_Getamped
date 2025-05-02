@@ -39,6 +39,8 @@
 - 기타 실험으로 Apriori 알고리즘을 활용하여 어떤 액세서리를 활용했을 때 같이 자주 사용하는 액세서리 도출을 시도
   
 # Making Log data & Analysis📌
-
+  
+[로그 생성 및 분석 코드](https://github.com/kimjaehyeonC/Toy_Getamped/blob/main/getamped_log_generator.ipynb)  
+  
 - 가상의 로그 데이터를 생성 및 활용하여 유저의 액세서리 선택 성향이 어떤지 파악
 - 이를 통해 액세서리 기획시 고려해야 할 인사이트를 도출
